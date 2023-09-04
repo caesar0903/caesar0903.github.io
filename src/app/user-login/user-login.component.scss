@@ -1,0 +1,14 @@
+.container {
+    height: 100vh;
+    width: 30vw;
+    position: fixed;
+    left: 35vw;
+}
+
+::ng-deep .p-inputtext {
+    width: 18rem;
+}
+
+::ng-deep .p-card .p-card-footer {
+    padding: 0.25rem 0 0 0;
+}
